@@ -1,0 +1,83 @@
+{
+  "name": "Aryan Singh",
+  "title": "Full Stack Developer",
+  "contact": {
+    "email": "aryan03aryansingh@gmail.com",
+    "phone": "+91 9876543210",
+    "location": "Lucknow, India"
+  },
+  "summary": "Passionate full-stack developer with experience building scalable web applications using React, Next.js, and Node.js. ",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "MongoDB" 
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer",
+      "company": "Tech Innovators Pvt Ltd",
+      "location": "Remote",
+      "startDate": "Jan 2023",
+      "endDate": "Present",
+      "description": "Developed responsive web applications with React and Tailwind CSS, improving load speed by 30%.",
+      "achievements": [
+        "Built a reusable component library for internal projects.",
+        "Collaborated with backend team to optimize REST API usage."
+      ]
+    },
+    {
+      "title": "Web Developer Intern",
+      "company": "Startup Hub",
+      "location": "Noida",
+      "startDate": "Jun 2022",
+      "endDate": "Dec 2022",
+      "description": "Assisted in developing e-commerce platform and implemented payment gateway integration.",
+      "achievements": [
+        "Increased site performance by 15% through code optimization."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institution": "ABES Engineering College",
+      "startYear": "2021",
+      "endYear": "2025",
+      "gpa": "8.2/10"
+    },
+    {
+      "degree": "Diploma in Computer Science",
+      "institution": "Lucknow Polytechnic",
+      "startYear": "2018",
+      "endYear": "2021",
+      "gpa": "8.5/10"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TailorMe",
+      "link": "https://tailor0me.vercel.app/",
+      "description": "AI-powered platform that generates tailored resumes for job applications by analyzing job descriptions.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "MongoDB",
+        "Tailwind CSS",
+        "Gemini AI"
+      ]
+    },
+    {
+      "name": "JobPrepSpace",
+      "link": "https://github.com/aryansingh-0",
+      "description": "Full-stack platform to prepare students for competitive exams with question generators and test papers.",
+      "technologies": [
+        "Node.js",
+        "React",
+        "Express",
+        "MongoDB"
+      ]
+    }
+  ]
+}
